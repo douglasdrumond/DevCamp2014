@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="black">#000000</color>
+    <color name="green">#00ff00</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <!-- From: file:/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="slide_fragment_horizontal_margin">50dp</dimen>
+    <!-- From: file:/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/items.xml -->
+    <eat-comment />
+
+    <item name="slide_up_down_fraction" format="float" type="dimen">0.67</item>
+    <!-- From: file:/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="text_horizontal_margin">10dp</dimen>
+    <dimen name="text_vertical_margin">18dp</dimen>
+    <!-- From: file:/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/integers.xml -->
+    <eat-comment />
+
+    <integer name="half_slide_up_down_duration">150</integer>
+    <integer name="slide_up_down_duration">200</integer>
+    <integer name="slide_up_down_final_value">150</integer>
+    <!-- From: file:/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="address"><b>Address:</b> Golden Gate Bridge, San Francisco, CA 94129</string>
+    <string name="app_name">SlidingFragments</string>
+    <string name="bridge">Golden Gate Bridge</string>
+    <string name="construction"><b>Construction started:</b>  1933</string>
+    <string name="elevation"><b>Elevation:</b>  220\' (67 m)</string>
+    <string name="height"><b>Height:</b>  746\' (227 m)</string>
+    <string name="length"><b>Total length:</b>  8,980\' (2,737 m)</string>
+    <string name="photo_credits"><b>Golden Gate Sunset</b> by <b>Romain Guy</b></string>
+    <string name="span"><b>Longest span:</b>  4,200\' (1,280 m)</string>
+    <string name="summary">"The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the opening of the San Francisco Bay into the Pacific Ocean."</string>
+
+</resources>

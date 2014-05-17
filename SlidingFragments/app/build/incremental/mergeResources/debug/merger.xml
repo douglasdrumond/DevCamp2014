@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res" >
+            <file
+                name="slide_fragment_in"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/animator/slide_fragment_in.xml"
+                qualifiers=""
+                type="animator" />
+            <file
+                name="slide_fragment_out"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/animator/slide_fragment_out.xml"
+                qualifiers=""
+                type="animator" />
+            <file
+                name="golden_gate"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/drawable-hdpi/golden_gate.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="image_fragment"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/layout/image_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sliding_fragments_layout"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/layout/sliding_fragments_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="text_fragment"
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/layout/text_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="green" >#00ff00
+                </color>
+                <color name="white" >#ffffff
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="red" >#ff0000
+                </color>
+            </file>
+            <file
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="slide_fragment_horizontal_margin" >50dp
+                </dimen>
+                <dimen name="text_horizontal_margin" >10dp
+                </dimen>
+                <dimen name="text_vertical_margin" >18dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/integers.xml"
+                qualifiers="" >
+                <integer name="half_slide_up_down_duration" >
+150
+                </integer>
+                <integer name="slide_up_down_final_value" >
+150
+                </integer>
+                <integer name="slide_up_down_duration" >
+200
+                </integer>
+            </file>
+            <file
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/items.xml"
+                qualifiers="" >
+                <item
+                    name="slide_up_down_fraction"
+                    format="float"
+                    type="dimen">
+0.67
+                </item>
+            </file>
+            <file
+                path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="elevation" ><b>
+Elevation:
+                    </b>  220\' (67 m)
+                </string>
+                <string name="length" ><b>
+Total length:
+                    </b>  8,980\' (2,737 m)
+                </string>
+                <string name="app_name" >SlidingFragments
+                </string>
+                <string name="address" ><b>
+Address:
+                    </b> Golden Gate Bridge, San Francisco, CA 94129
+                </string>
+                <string name="summary" >"The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the opening of the San Francisco Bay into the Pacific Ocean."
+                </string>
+                <string name="height" ><b>
+Height:
+                    </b>  746\' (227 m)
+                </string>
+                <string name="span" ><b>
+Longest span:
+                    </b>  4,200\' (1,280 m)
+                </string>
+                <string name="photo_credits" ><b>
+Golden Gate Sunset
+                    </b> by 
+<b>
+Romain Guy
+                    </b></string>
+                <string name="bridge" >Golden Gate Bridge
+                </string>
+                <string name="construction" ><b>
+Construction started:
+                    </b>  1933
+                </string>
+            </file>
+        </source>
+        <source path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/build/res/rs/debug" />
+        <source path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/douglasdrumond/src/devcamp/SlidingFragments/app/src/debug/res" />
+    </dataSet>
+
+</merger>
